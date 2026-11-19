@@ -13,6 +13,6 @@
 
 ### Enlaces legales
 * [Política de Privacidad](./privacidad.md)
-* [Condiciones del Servicio](./terminos)
+* [Condiciones del Servicio](./terminos.md)
 
 **Contacto y soporte:** melisaoviedo10@gmail.com
